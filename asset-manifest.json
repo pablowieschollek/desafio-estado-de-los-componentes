@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desafio-estado-de-los-componentes/static/css/main.c8af4e8a.css",
+    "main.js": "/desafio-estado-de-los-componentes/static/js/main.c8e39826.js",
+    "index.html": "/desafio-estado-de-los-componentes/index.html",
+    "main.c8af4e8a.css.map": "/desafio-estado-de-los-componentes/static/css/main.c8af4e8a.css.map",
+    "main.c8e39826.js.map": "/desafio-estado-de-los-componentes/static/js/main.c8e39826.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8af4e8a.css",
+    "static/js/main.c8e39826.js"
+  ]
+}
